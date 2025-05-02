@@ -28,6 +28,6 @@ Este repositório contém a implementação de diferentes modelos de relação c
 ---
 
 ## Contato:
-Para dúvidas, sugestões ou colaborações, entre em contato:
+Para dúvidas ou sugestões, entre em contato:
 
 📧 thais.ornellas@uel.br
