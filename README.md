@@ -6,6 +6,8 @@ Este repositório contém a implementação de diferentes modelos de relação c
 
 - `nc_concentration.py`: Implementações dos modelos de concentração utilizando ferramentas da biblioteca NumCosmo.
 - `ccl_colossus_concentration.ipynb`: Notebook com as comparações entre as bibliotecas, com o cálculo da diferença relativa.
+-  `ccl_colossus_concentration.ipynb`: Notebook com as comparações entre as bibliotecas para o cálculo da densidade superfícial $\Sigma(R)$
+
 
 ## Modelos Implementados
 
